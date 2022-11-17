@@ -1,0 +1,12 @@
+14 nov 2022 10:46:05,890 DEBUG Config:19 - appPropertiesapplication.properties
+14 nov 2022 10:46:32,661 DEBUG MainApplicationClass:23 - drivers: 
+14 nov 2022 10:49:13,778 DEBUG Config:19 - appPropertiesapplication.properties
+14 nov 2022 10:49:13,780  INFO MainApplicationClass:34 -  *** Elapsed time : 6 milliseconds.
+14 nov 2022 10:49:30,895 DEBUG Config:19 - appPropertiesapplication.properties
+14 nov 2022 10:49:30,897  INFO MainApplicationClass:34 -  *** Elapsed time : 5 milliseconds.
+14 nov 2022 10:52:17,130 DEBUG Config:19 - appPropertiesapplication.properties
+14 nov 2022 10:52:17,132 ERROR MainApplicationClass:38 - PARAMETRO SCONOSCIUTO: PAR1
+14 nov 2022 10:52:17,132  INFO MainApplicationClass:51 -  *** Elapsed time : 6 milliseconds.
+14 nov 2022 10:52:57,227 DEBUG Config:19 - appPropertiesapplication.properties
+14 nov 2022 10:52:57,232 ERROR MainApplicationClass:38 - PARAMETRO SCONOSCIUTO: PAR1 PAR2
+14 nov 2022 10:52:57,233  INFO MainApplicationClass:53 -  *** Elapsed time: 4 second(s).

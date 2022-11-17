@@ -1,0 +1,3 @@
+java -DappProperties="C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\application.properties" -cp "C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\lib\log4j-1.2-api-2.19.0.jar;C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\lib\log4j-api-2.19.0.jar;C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\lib\log4j-core-2.19.0.jar;C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\lib\mysql-connector-java-8.0.30.jar;C:\Users\nicola.hu\Desktop\javaDesktopEclipse\scheduler\dist\scheduler.jar" it.generali.api.scheduler.MainApplicationClass 1
+
+Pause
