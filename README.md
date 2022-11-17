@@ -12,7 +12,7 @@ In the project built with plain java we can note that
 
         2. command line, add the dependencies and the main application as jar in the -cp (classpath)
             argument, which is a VM (Java) argument. Then indicate the path of the Main file of exec.
-            (i.e. it.generali.app.Main). See The file avvio.bat, which contains the code for executing.
+            (i.e. it.generali.app.Main). See The file avvio.bat, for sample command line script.
 
             2.a) For creating a jar file of the Main application, right click (in eclipse) on the file
             then > export > (typically we select in the "dist" folder)
